@@ -20,7 +20,8 @@ A simple and modern **Task Management App** built using **Kotlin**, **Jetpack Co
 ## 🎥 Demo Video
 Here is the demo video of the app:
 
-![Demo_Video](https://github.com/user-attachments/assets/6e6137e5-4674-42a9-b623-445fba9e13b2)
+<img src="https://github.com/user-attachments/assets/6e6137e5-4674-42a9-b623-445fba9e13b2"
+     height="500" width="auto"/>
 
 ---
 
